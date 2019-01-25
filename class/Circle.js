@@ -24,4 +24,5 @@ class Circle {
     console.log('draw');
   }
 }
-const circle = new Circle(1);
+
+export default Circle;
